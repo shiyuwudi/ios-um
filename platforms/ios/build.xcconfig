@@ -1,0 +1,1 @@
+OTHER_LDFLAGS = $(inherited) -framework "QuartzCore" -l"sqlite3" -framework "CoreTelephony" -framework "CoreMotion"
